@@ -14,4 +14,8 @@
 5. Ejecuta el proyecto (F5). Se abrirá un navegador con la dirección (ej. http://localhost:54321/MathService.asmx). Copia esta URL, la necesitarás para el cliente.
 
 
+# Referencias:
+
+https://learn.microsoft.com/es-es/troubleshoot/developer/visualstudio/csharp/language-compilers/write-web-service
+
 
